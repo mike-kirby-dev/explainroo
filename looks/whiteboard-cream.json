@@ -1,0 +1,6 @@
+{
+  "extends": "paper",
+  "name": "whiteboard-cream",
+  "bg": "#F5EBD7",
+  "background": "paper"
+}
